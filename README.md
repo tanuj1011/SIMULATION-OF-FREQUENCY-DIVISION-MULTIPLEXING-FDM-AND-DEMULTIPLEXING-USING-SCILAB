@@ -1,5 +1,7 @@
 # SIMULATION-OF-FREQUENCY-DIVISION-MULTIPLEXING-FDM-AND-DEMULTIPLEXING-USING-SCILAB
 
+
+
 ### AIM:
 
 To write a Scilab program to simulate frequency division multiplexing and demultiplexing for six different frequencies, and verify the demultiplexed outputs correspond to the original signals.  
@@ -76,15 +78,18 @@ for i = 1:6
 end
 
 ```
+### TABULATION:
+<img width="674" height="794" alt="image" src="https://github.com/user-attachments/assets/7ba667ce-62ad-4af4-b9c1-c8a4c82a3ab6" />
+
 
 ### GRAPH:
 
-<img width="800" height="901" alt="image" src="https://github.com/user-attachments/assets/2d1568ef-ed4a-4499-828f-d4928e1800a7" />
-<img width="800" height="804" alt="image" src="https://github.com/user-attachments/assets/7c8ea91b-075f-48fa-a5f4-1a206c26613b" />
-<img width="800" height="909" alt="image" src="https://github.com/user-attachments/assets/38da7fb9-924a-42eb-a5c6-2555e11b7aa5" />
+<img width="600" height="901" alt="image" src="https://github.com/user-attachments/assets/2d1568ef-ed4a-4499-828f-d4928e1800a7" />
+<img width="600" height="804" alt="image" src="https://github.com/user-attachments/assets/7c8ea91b-075f-48fa-a5f4-1a206c26613b" />
+<img width="600" height="909" alt="image" src="https://github.com/user-attachments/assets/38da7fb9-924a-42eb-a5c6-2555e11b7aa5" />
 
 
-### TABULATION:
+
 
 ### RESULT:
 The program successfully simulates FDM and demultiplexing for multiple frequency signals with filtering to recover original signals accurately in Scilab.
