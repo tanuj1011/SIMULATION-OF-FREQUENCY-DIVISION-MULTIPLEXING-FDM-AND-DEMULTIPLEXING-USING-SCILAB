@@ -79,14 +79,13 @@ end
 
 ```
 ### TABULATION:
-<img width="674" height="794" alt="image" src="https://github.com/user-attachments/assets/7ba667ce-62ad-4af4-b9c1-c8a4c82a3ab6" />
+![WhatsApp Image 2025-11-19 at 15 55 00_888549d7](https://github.com/user-attachments/assets/23a5cbe1-fd6d-49c6-b335-ddd467fa41eb)
+
 
 
 ### GRAPH:
+![WhatsApp Image 2025-11-19 at 15 54 51_ae673cf8](https://github.com/user-attachments/assets/790cf4a9-7608-4f11-abe1-ce8f84619605)
 
-<img width="600" height="901" alt="image" src="https://github.com/user-attachments/assets/2d1568ef-ed4a-4499-828f-d4928e1800a7" />
-<img width="600" height="804" alt="image" src="https://github.com/user-attachments/assets/7c8ea91b-075f-48fa-a5f4-1a206c26613b" />
-<img width="600" height="909" alt="image" src="https://github.com/user-attachments/assets/38da7fb9-924a-42eb-a5c6-2555e11b7aa5" />
 
 
 
